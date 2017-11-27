@@ -23,4 +23,4 @@ public class TestSwitch {
             default: System.out.println("D dog");
         }//switch
     }//main
-}//main
+}//class
