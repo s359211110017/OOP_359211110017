@@ -13,6 +13,17 @@ public class myArray2D {
         num = inputData2D(num);
 
     }//main
+    private static void showData2D(int[][]num){
+        System.out.println("Data in array 2D:");
+        for (int i = 0; i < num.length; i++) {
+            for (int j = 0; j < num[i].length; j++) {
+                System.out.print(num[i][j]+"");
+
+    }
+     System.out.println();
+        }
+        System.out.println();
+    }
 
     private static int[][] inputData2D(int[][] num) throws IOException {
         BufferedReader reader = new BufferedReader(

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273f82ef-98d7-4d58-9ed2-885cd15fd7fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110017/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/InputDataToArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110017/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110017/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,34 +15,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            <state relative-caret-position="418">
+              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InputDataToArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/InputDataToArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="myArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -410,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511775591143</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lab3G&amp;ForLoop">
+      <created>1514187522939</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514187522939</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -536,13 +520,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -554,11 +536,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray.java">
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
