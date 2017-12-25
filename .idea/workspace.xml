@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="273f82ef-98d7-4d58-9ed2-885cd15fd7fe" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/OperatorArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110017/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_359211110017/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" afterPath="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_359211110017/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myArray2D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
@@ -23,6 +23,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperatorArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/OperatorArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,6 +67,7 @@
         <option value="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray.java" />
         <option value="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/InputDataToArray.java" />
         <option value="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/myArray2D.java" />
+        <option value="$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/OperatorArray.java" />
       </list>
     </option>
   </component>
@@ -394,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514187522939</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Array2D">
+      <created>1514188025107</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514188025107</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -439,7 +457,8 @@
     <MESSAGE value="CalGrade" />
     <MESSAGE value="TestSwitch" />
     <MESSAGE value="Lab3G&amp;ForLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab3G&amp;ForLoop" />
+    <MESSAGE value="Array2D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array2D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,6 +562,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_359211110017/src/ooplab5/OperatorArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="41" lean-forward="false" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
