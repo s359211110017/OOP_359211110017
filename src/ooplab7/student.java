@@ -51,10 +51,4 @@ public class student {
     public String getgroup(){
         return  this.group;
     }//getgroup
-
-
-
-
-
-
 }//class
