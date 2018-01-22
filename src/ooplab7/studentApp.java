@@ -19,6 +19,8 @@ public class studentApp {
     student s3 = new student();
     s3 = InputData(s3);
 
+    showData(s3);
+
     }//main
 
     private static student InputData(student s) {
