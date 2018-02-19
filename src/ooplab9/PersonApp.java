@@ -3,9 +3,9 @@ package ooplab9;
 public class PersonApp {
 
     public static void main(String[] args) {
-        Person person = new Person("Kwang", "1234",
-                new Address("123/123","Suratthani","84000"),
-                new Job("IT", "50000"));
+        Person person = new Person("Bow", "2354",
+                new Address("87/1","Suratthani","80160"),
+                new Job("IT", "65000"));
 
         System.out.println(person.toString());
 
